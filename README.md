@@ -1,4 +1,4 @@
-portfolio
+Java Rubber Band Equilateral Triangle
 =========
 
 This Java application was part of an assignment for an introductory programming methods course at BCIT (COMP 1510 Programming Methods). It draws an equilateral triangle; its size and orientation is determined by a mouse drag. The original mouse press location is the centre, and the dragged position of the mouse is one of the corners. 
